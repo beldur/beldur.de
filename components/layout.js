@@ -32,6 +32,11 @@ export default ({ children, title = 'Home' }) => (
                 <a>Exptertise</a>
               </ActiveLink>
             </li>
+            <li>
+              <ActiveLink href="/books">
+                <a>My Book List</a>
+              </ActiveLink>
+            </li>
             {/* <li>
               <ActiveLink href="/go">
                 <a>GO (围棋)</a>

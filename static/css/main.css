@@ -2559,7 +2559,7 @@ textarea:focus {
 .select-wrapper:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: Font Awesome\ 5 Brands;
+  font-family: Font Awesome\5 Brands;
   font-style: normal;
   font-weight: normal;
   text-transform: none !important;
@@ -2634,7 +2634,7 @@ input[type='checkbox'] + label:before,
 input[type='radio'] + label:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: Font Awesome\ 5 Brands;
+  font-family: Font Awesome\5 Brands;
   font-style: normal;
   font-weight: normal;
   text-transform: none !important;
@@ -2886,7 +2886,7 @@ ul.icons li > a:before,
 ul.icons li > span:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: Font Awesome\ 5 Brands;
+  font-family: Font Awesome\5 Brands;
   font-style: normal;
   font-weight: normal;
   text-transform: none !important;
@@ -3052,11 +3052,12 @@ dl {
 dl dt {
   display: block;
   font-weight: bold;
-  margin: 0 0 1em 0;
+  margin: 0;
 }
 
 dl dd {
   margin-left: 2em;
+  margin-bottom: 0.5em;
 }
 
 /* Section/Article */
