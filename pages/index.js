@@ -7,7 +7,7 @@ const Index = () => (
       <div className="inner">
         <h1>Hi, I'm Alex</h1>
         <p className="center">
-          I'm a Senior Software Engineer always looking for creative ways to
+          I'm a Software Engineer Manager always looking for creative ways to
           solve problems.
           <br />
           I get gratification from making a meaningful impact to other people's
