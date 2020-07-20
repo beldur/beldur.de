@@ -13,6 +13,15 @@ export default () => (
         </p>
 
         <dl>
+          <dt>An Elegant Puzzle - Systems of Engineering Management</dt>
+          <dd>
+            Very dense with a lot of practical examples, guides and experience.
+            Highly recommended!
+          </dd>
+
+          <dt>Reinventing Organisations</dt>
+          <dd>Mindblowing book about the future of organisations</dd>
+
           <dt>
             The Manager's Path: A Guide for Tech Leaders Navigating Growth and
             Change by Camille Fourniere
