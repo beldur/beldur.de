@@ -29,7 +29,7 @@ export default ({ children, title = 'Home' }) => (
             </li>
             <li>
               <ActiveLink href="/expertise">
-                <a>Exptertise</a>
+                <a>Expertise</a>
               </ActiveLink>
             </li>
             <li>
