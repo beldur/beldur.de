@@ -13,6 +13,12 @@ export default () => (
         </p>
 
         <dl>
+          <dt>Richtig gut rüberkommen: Wie Sie empathisch und erfolgreich kommunizieren</dt>
+          <dd>
+            A German book about the art of good communication. Mirroring the other person
+            and by that creating a symmetry to archive a higher goal is teached in the book.
+          </dd>
+
           <dt>An Elegant Puzzle - Systems of Engineering Management</dt>
           <dd>
             Very dense with a lot of practical examples, guides and experience.
