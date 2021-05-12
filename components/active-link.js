@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { withRouter } from 'next/router'
-import { Children } from 'react'
+import React, { Children } from 'react'
 
 export default withRouter(({ router, children, ...props }) => (
   <Link {...props}>
