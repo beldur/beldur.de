@@ -5,14 +5,15 @@
   "author": "alexluecking@gmail.com",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbo",
     "build": "next build && next export",
     "start": "next start",
     "release": "rm -rf node_modules/.cache && next build && next export && touch out/.nojekyll && git add out/ && git commit -m \"Deploy Next.js to gh-pages\" && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
-    "next": "^10.2.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  }
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "packageManager": "yarn@3.4.1"
 }
