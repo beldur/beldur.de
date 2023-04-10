@@ -5,4 +5,9 @@ const nextConfig = {
   },
 }
 
+if (process.env.NEXTJS_EXPORT) {
+  console.log('Adding output export...')
+  nextConfig.output = 'export'
+}
+
 module.exports = nextConfig
